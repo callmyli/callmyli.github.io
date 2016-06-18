@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01说明
 博客是fork 知乎用户"陈素封"的，仅供学习参考。
 
@@ -26,3 +27,6 @@
 
 
 
+=======
+# lizhibing.github.io-
+>>>>>>> origin/master
